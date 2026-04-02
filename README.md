@@ -1,26 +1,3 @@
-# 3s-react-frontend
-
-react frontend app created by interns
-
-### Tech stack
-
-- React Router 7
-- TailwindCSS / ... (optional, vanilla CSS is also fine, explain why)
-- Zod
-- Zustand
-- Vite
-- TypeScript
-- Storybook (optional)
-- Vitest / Jest / ... (choose one, tell us why)
-
-### What to do
-
-Refactor the Telco app. Add missing features, use reusable components, etc.
-
-### Features
-
-To be defined.
-
 ## 3.1 Branching Model
 
 We use **feature branching with a mandatory `develop` branch**.
