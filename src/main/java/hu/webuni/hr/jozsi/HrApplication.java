@@ -22,9 +22,9 @@ public class HrApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        Employee emp1 = new Employee(1L, "John Doe", "Engineer", 1000, LocalDateTime.now().minusYears(11));
-        Employee emp2 = new Employee(2L, "Jane Smith", "Manager", 2000, LocalDateTime.now().minusYears(6));
-        Employee emp3 = new Employee(3L, "Bob Brown", "Intern", 500, LocalDateTime.now().minusYears(1));
+        Employee emp1 = new Employee(1L, "John Christmas", "Christmas Tree", 1000, LocalDateTime.now().minusYears(11));
+        Employee emp2 = new Employee(2L, "Zane O", "Manager", 2000, LocalDateTime.now().minusYears(6));
+        Employee emp3 = new Employee(3L, "Hey D", "Intern", 500, LocalDateTime.now().minusYears(1));
 
         System.out.println("Before raise:");
         printEmployee(emp1);
